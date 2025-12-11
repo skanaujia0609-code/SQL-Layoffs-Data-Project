@@ -1,8 +1,8 @@
-# 📊 Layoffs Dataset - SQL Data Cleaning & EDA
+# Layoffs Dataset - SQL Data Cleaning & EDA
 This project focuses on analyzing global layoffs using **MySQL Workbench**.  
 Both **Data Cleaning** and **Exploratory Data Analysis (EDA)** are performed entirely using SQL — no Python or BI tools used.
 
-## 🧹 1. Data Cleaning (SQL)
+## 1. Data Cleaning (SQL)
 The following tasks were performed:
 1. Removed duplicates  
 2. Standardized formatting  
@@ -14,7 +14,7 @@ The following tasks were performed:
 4. Removed rows with both total_laid_off and percentage_laid_off missing  
 5. Final cleaned table: `layoffs_staging2`
 
-## 📊 2. Exploratory Data Analysis (SQL)
+## 2. Exploratory Data Analysis (SQL)
 The EDA includes:
 
 - Total layoffs per company  
@@ -28,11 +28,11 @@ The EDA includes:
 - Top 10 companies by layoffs  
 - Monthly and quarterly analysis
 - 
-## 🛠 Tools Used
-- **MySQL Workbench**
+## Tools Used
+- **MySQL Workbench 8.0 CE**
 - Dataset in CSV format
 
-## 📈 Key Insights
+## Key Insights
 - Tech industry had the highest number of layoffs  
 - 2023 showed the largest spike  
 - Startups with high funding had higher percentage layoffs  
