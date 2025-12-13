@@ -38,5 +38,8 @@ The EDA includes:
 - Startups with high funding had higher percentage layoffs  
 - The US had the highest number of layoffs globally
 
- ## Output
+ ## Output of Data Cleaning
 (https://github.com/skanaujia0609-code/SQL-Layoffs-Data-Project/blob/main/DataClean.PNG)
+
+## Output of EDA
+
