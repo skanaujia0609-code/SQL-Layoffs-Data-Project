@@ -42,4 +42,4 @@ The EDA includes:
 (https://github.com/skanaujia0609-code/SQL-Layoffs-Data-Project/blob/main/DataClean.PNG)
 
 ## Output of EDA
-
+(https://github.com/skanaujia0609-code/SQL-Layoffs-Data-Project/blob/main/data/EDA.PNG)
