@@ -36,4 +36,7 @@ The EDA includes:
 - Tech industry had the highest number of layoffs  
 - 2023 showed the largest spike  
 - Startups with high funding had higher percentage layoffs  
-- The US had the highest number of layoffs globally 
+- The US had the highest number of layoffs globally
+
+  ![Data Cleaning](SQL/DataClean.PNG)
+
